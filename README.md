@@ -44,21 +44,8 @@ Real-time messaging application with modern UI, built to understand chat flows.
 
 ---
 
-## 📈 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivek-shaw-02&show_icons=true&theme=radical" alt="stats" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vivek-shaw-02&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="trophies" />
-</p>
-
----
+📈 GitHub Stats & Trophies
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vivek-shaw-02&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=vivek-shaw-02&theme=radical" alt="GitHub Streak" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-shaw-02&layout=compact&theme=radical" alt="Top Languages" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=vivek-shaw-02&theme=radical" alt="GitHub Trophies" /> </p>
 
 
 
